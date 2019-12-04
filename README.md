@@ -45,6 +45,6 @@ eigen
   
   파일을 돌렸을 때 나오는 결과값은 아래의 사진과 같다.
   
-  
+  ![1](https://user-images.githubusercontent.com/45475182/70159413-32ea3180-16fc-11ea-8df4-06844aacc4d5.PNG)
 
-    
+  highest eigenvalue와 lower eigenvalue 각각에 대한 eigenvector 값을 확인하였다.
