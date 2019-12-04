@@ -17,7 +17,7 @@ eigen
   ![2](https://user-images.githubusercontent.com/45475182/70160492-ee5f9580-16fd-11ea-9fd6-e34d2f3aba4b.PNG)
 
   
-  ## eig
+  ## power
     function [eig_val, eig_vec] = power_2016113387(A, es, maxit)
     [m, n] = size(A);
     x = ones(n, 1);
