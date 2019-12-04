@@ -14,7 +14,8 @@ eigen
   
   이 코드는 테일러 시리즈를 계산하고 plot 시키는 코드이다.
   plot 시켰을 때 나오는 결과는 아래의 사진과 같다.
-  
+  ![2](https://user-images.githubusercontent.com/45475182/70160492-ee5f9580-16fd-11ea-9fd6-e34d2f3aba4b.PNG)
+
   
   ## eig
     function [eig_val, eig_vec] = power_2016113387(A, es, maxit)
